@@ -289,3 +289,6 @@ body.mode-guru .card.stat{padding:16px}
   .login-form .btn.lebar{margin-top:8px}
   .catatan-demo{margin-top:16px;padding:10px 13px}
 }
+@media (max-width:900px),(hover:none){
+  .login-latar{animation:none}
+}
